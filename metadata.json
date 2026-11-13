@@ -1,0 +1,6 @@
+{
+  "name": "APK Forge",
+  "description": "An advanced Android app and APK builder studio with file management, code editor, templates, and Gemini AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
